@@ -51,7 +51,7 @@ isim gir , çevre elemanları gir , detayları yaz  , worker group seç.
 
 - Token Manage 
 
-![image](https://user-images.githubusercontent.com/110333072/183613252-5079701c-f36c-4e36-83f3-f2c8d5393082.png)
+![image](https://user-images.githubusercontent.com/110333072/183613914-f5a60e38-342a-4bbf-8911-461d55f36b25.png)
 
 Kullanıcıya oluşturduğumuz token in son kullanım tarihini giriyoruz hangi kullanıcı olduğunu seçiyoruz 
 
