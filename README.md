@@ -37,4 +37,25 @@ Burada kullanıcı oluşturuyoruz önceden oluşturduğumuz tenant ve queue yi s
 
 İsim giriyoruz ardından oluşturduğumuz Alarm İnstance yi seçiyoruz en sonunda ayrıntıları giriyoruz
 
+- Worker Group Manage 
+
+![image](https://user-images.githubusercontent.com/110333072/183610472-0fd92a95-9231-421d-9211-3b2a030cc22b.png)
+
+isim giriyoruz, Worker Adress giriyoruz.
+
+- Environment Manage 
+
+![image](https://user-images.githubusercontent.com/110333072/183612137-eda57009-66df-4f70-bfc8-7d12f941c69e.png)
+
+isim gir , çevre elemanları gir , detayları yaz  , worker group seç.
+
+- Token Manage 
+
+![image](https://user-images.githubusercontent.com/110333072/183613252-5079701c-f36c-4e36-83f3-f2c8d5393082.png)
+
+Kullanıcıya oluşturduğumuz token in son kullanım tarihini giriyoruz hangi kullanıcı olduğunu seçiyoruz 
+
+
+
+
                                                                                                                                               
