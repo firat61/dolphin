@@ -8,7 +8,27 @@
 
 - Security kısmından gerekli işlemleri yapacağız![image](https://user-images.githubusercontent.com/110333072/183598567-9f8be81f-ccd0-43e4-a24e-ea61255b2d29.png)
 
-- Yarn Queue Manege ......
-                                                                                                                                                                ![image](https://user-images.githubusercontent.com/110333072/183599086-7ae579f1-a471-490a-9079-f2648a42a8ea.png)
-                                                                                                                                                                
--                                                                                                                                                                 
+- Create Queue 
+
+![image](https://user-images.githubusercontent.com/110333072/183604454-7c186fe9-cb20-4285-b9a4-77138eb95670.png)
+
+- Tenant Manage (iş oluşturma)
+
+![image](https://user-images.githubusercontent.com/110333072/183604800-52768afe-f5c6-4c66-9103-af216d949c97.png)
+
+ilk olarak isim veriyoruz ardından oluşturduğumuz Queue yi seçiyoruz ardından ayrıntıları giriyoruz
+
+- Users Manage (Kulanıcı oluştur - Düzenle)
+
+![image](https://user-images.githubusercontent.com/110333072/183605270-4e5bb9ab-a402-40e1-aee6-6103f81a1020.png)
+
+Burada kullanıcı oluşturuyoruz önceden oluşturduğumuz tenant ve queue yi seçiyoruz.
+
+- Alarm İnstanca Manage
+
+![image](https://user-images.githubusercontent.com/110333072/183606759-7a765ec7-3ce1-4842-8ddf-1e596c966fdd.png)
+
+İsim gir - türü seç ve gerekli kısımları ekle
+
+
+                                                                                                                                              
