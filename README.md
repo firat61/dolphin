@@ -55,6 +55,32 @@ isim gir , çevre elemanları gir , detayları yaz  , worker group seç.
 
 Kullanıcıya oluşturduğumuz token in son kullanım tarihini giriyoruz hangi kullanıcı olduğunu seçiyoruz 
 
+- Kendi Oluşturduğumuz Kullanıcıya girmek için admin hesaptan çıkış yapıyoruz
+
+![image](https://user-images.githubusercontent.com/110333072/183627206-9f24b23b-ca8a-42a1-a7e5-90701b312717.png)
+
+- Kendi oluşturduğumuz kullanıcı adı ve şifresini giriyoruz
+
+
+- Ardından üst kısımdan project i seçiyoruz
+
+![image](https://user-images.githubusercontent.com/110333072/183626547-b02e3c97-f57e-4273-a783-f7cf0f8577c4.png)
+
+- Create Project e tıklayıp proje oluşturuyoruz hangi kullanıcının sahip olacağı orada yazıyor. 
+
+![image](https://user-images.githubusercontent.com/110333072/183629480-c02704b9-98f9-44ba-811b-d231521a8dfb.png)
+ 
+ - Proje isminin üstüne tıklıyoruz
+
+- Workflow Defination a giriyoruz sonra Crate Workflow Definition a basıyoruz
+
+![image](https://user-images.githubusercontent.com/110333072/183630210-870fc81d-28f5-41a8-b566-927f24d55c35.png)
+
+- Proje için Workflow çizebiliriz.
+
+![image](https://user-images.githubusercontent.com/110333072/183630348-97538496-b47e-4af5-8264-d54540a807e8.png)
+
+
 
 
 
