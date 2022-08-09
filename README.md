@@ -31,4 +31,10 @@ Burada kullanıcı oluşturuyoruz önceden oluşturduğumuz tenant ve queue yi s
 İsim gir - türü seç ve gerekli kısımları ekle
 
 
+- Alarm Group Manage 
+
+![image](https://user-images.githubusercontent.com/110333072/183609212-5298eea4-f8a8-4b97-895c-1d770d3e3446.png)
+
+İsim giriyoruz ardından oluşturduğumuz Alarm İnstance yi seçiyoruz en sonunda ayrıntıları giriyoruz
+
                                                                                                                                               
