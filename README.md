@@ -80,6 +80,21 @@ Kullanıcıya oluşturduğumuz token in son kullanım tarihini giriyoruz hangi k
 
 ![image](https://user-images.githubusercontent.com/110333072/183630348-97538496-b47e-4af5-8264-d54540a807e8.png)
 
+- Node Name 	Görevin adını ayarlayın. Bir iş akışı tanımındaki düğüm adları benzersizdir.
+Run flag	Düğümün normal şekilde programlanıp programlanamayacağını gösterir. Yürütmek gerekli değilse, yürütmeyi yasaklayan anahtarı açabilirsiniz.
+Description	Bu düğümün işlevini açıklar.
+Task priority	  Çalışan iş parçacığı sayısı yetersiz olduğunda, önceliğe göre yüksekten düşüğe doğru, öncelik aynı olduğunda ilk giren ilk çıkar ilkesine göre yürütülürler.
+Worker group	 Görev, yürütme için çalışan grubundaki makinelere atanır. Varsayılan seçilirse, yürütme için rastgele bir çalışan makine seçilir.
+Task group name	    Kaynaklar'daki grup, yapılandırılmamışsa kullanılmayacaktır.
+Environment Name	Komut dosyasının çalıştırılacağı ortamı yapılandırın.
+Number of failed retries    Başarısızlıktan sonra görevin yeniden gönderilme sayısı. Açılır ve manuel doldurmayı destekler.	
+Failure Retry Interval     Görev başarısız olursa görevi yeniden göndermek için zaman aralığı. Açılır ve manuel doldurmayı destekler.
+Timeout alarm        Zaman Aşımı Alarmını ve Zaman Aşımı Hatasını kontrol edin. Görev "zaman aşımı süresini" aştığında, bir alarm e-postası gönderilir ve görev yürütme başarısız olur.
+Script	  Kullanıcı tarafından geliştirilen bir SHELL programı.
+Resource	Komut dosyasında çağrılması gereken kaynak dosyalarının listesini ve Kaynak Merkezi - Dosya Yönetimi'nde yüklenen veya oluşturulan dosyaları ifade eder
+User-defined parameter   ${variable}Komut dosyasındaki içeriği değiştirecek olan, Shell'in kullanıcı tanımlı bir parametresidir.
+Predecessor task   	Mevcut görevin öncül görevinin seçilmesi, seçili öncül görevi mevcut görevin yukarı akışı olarak ayarlar.
+
 
 
 
