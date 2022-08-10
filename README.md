@@ -93,7 +93,18 @@ Kullanıcıya oluşturduğumuz token in son kullanım tarihini giriyoruz hangi k
 - Script	  Kullanıcı tarafından geliştirilen bir SHELL programı.
 - Resource	Komut dosyasında çağrılması gereken kaynak dosyalarının listesini ve Kaynak Merkezi - Dosya Yönetimi'nde yüklenen veya oluşturulan dosyaları ifade eder
 - User-defined parameter   ${variable}Komut dosyasındaki içeriği değiştirecek olan, Shell'in kullanıcı tanımlı bir parametresidir.
-- Predecessor task   	Mevcut görevin öncül görevinin seçilmesi, seçili öncül görevi mevcut görevin yukarı akışı olarak ayarlar.
+- Predecessor task   	Mevcut görevin öncül görevinin seçilmesi, seçili öncül görevi mevcut görevin yukarı akışı olarak ayarlar
+
+- İşlem Bitince Saveliyoruz
+
+- Workflow Instance den hata var mı yok mu kontrol ediyoruz
+
+-Ardından Workflowumuzun sağ tarafında yer alan operation bölümünden işlemler yapacağız
+
+* Start Başlatır
+* Timing başlatma ve durdurma zamanını ayarlar
+* offline mod tam anlamıyla duraklatır edit vs yapmamızı sağlar
+* zaman ayarlamak istersek cron manage ye girip edit kısmından start ve stop kısımlarından zaman ayarı yapabiliriz
 
 
 
