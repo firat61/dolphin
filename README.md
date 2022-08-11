@@ -107,7 +107,15 @@ Kullanıcıya oluşturduğumuz token in son kullanım tarihini giriyoruz hangi k
 - -Ardından Workflowumuzun sağ tarafında yer alan operation bölümünden işlemler yapacağız.
 
 * Start Başlatır
-* Timing başlatma ve durdurma zamanını ayarlar
+* Timing başlatma ve durdurma zamanını ayarlar. uygulama başlatıldıktan sonra değişiklik yapmak için cron manage yi kullanın.
+-Start stop time başlatma ve durdurma zamanı Timin kısmı ise zaman aralıklarını belirler 
+
+![image](https://user-images.githubusercontent.com/110333072/184120602-b62c159f-1838-4c4e-b3c2-ce610a94966f.png)
+
+- Dakika saat gün ay veya yıl olarak seçebiliyoruz ayrıca spesific kısmından düzenli olmayan aralıkları da ekleyebiliyoruz
+
+
+
 * offline mod tam anlamıyla duraklatır edit vs yapmamızı sağlar
 * zaman ayarlamak istersek cron manage ye girip edit kısmından start ve stop kısımlarından zaman ayarı yapabiliriz
 
