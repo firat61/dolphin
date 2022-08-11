@@ -97,11 +97,14 @@ Kullanıcıya oluşturduğumuz token in son kullanım tarihini giriyoruz hangi k
 - User-defined parameter   ${variable}Komut dosyasındaki içeriği değiştirecek olan, Shell'in kullanıcı tanımlı bir parametresidir.
 - Predecessor task   	Mevcut görevin öncül görevinin seçilmesi, seçili öncül görevi mevcut görevin yukarı akışı olarak ayarlar
 
+
+- Opreation bölümündeki HTTP istek göndermemizi sağlar. isimi girdikten sonra Http url kısmını dolduruyoruz.
+
 - İşlem Bitince Saveliyoruz
 
-- Workflow Instance den hata var mı yok mu kontrol ediyoruz
+- Workflow Instance den hata var mı yok mu kontrol ediyoru
 
--Ardından Workflowumuzun sağ tarafında yer alan operation bölümünden işlemler yapacağız
+- -Ardından Workflowumuzun sağ tarafında yer alan operation bölümünden işlemler yapacağız.
 
 * Start Başlatır
 * Timing başlatma ve durdurma zamanını ayarlar
