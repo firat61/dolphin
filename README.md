@@ -104,9 +104,17 @@ Kullanıcıya oluşturduğumuz token in son kullanım tarihini giriyoruz hangi k
 
 - Workflow Instance den hata var mı yok mu kontrol ediyoru
 
-- -Ardından Workflowumuzun sağ tarafında yer alan operation bölümünden işlemler yapacağız.
+- Ardından Workflowumuzun sağ tarafında yer alan operation bölümünden işlemler yapacağız.
 
-* Start Başlatır
+- offline mod tam anlamıyla duraklatır edit vs yapmamızı sağlar
+
+- Timing kısmından zaman ayarlamalarını yapabiliriz 
+
+- Zaman ayarında değişiklik istersek cron manage ye girip edit kısmından start ve stop kısımlarından zaman ayarı yapabiliriz
+
+- Start Başlatır.
+
+
 * Timing başlatma ve durdurma zamanını ayarlar. uygulama başlatıldıktan sonra değişiklik yapmak için cron manage yi kullanın.
 -Start stop time başlatma ve durdurma zamanı Timin kısmı ise zaman aralıklarını belirler 
 
@@ -115,9 +123,6 @@ Kullanıcıya oluşturduğumuz token in son kullanım tarihini giriyoruz hangi k
 - Dakika saat gün ay veya yıl olarak seçebiliyoruz ayrıca spesific kısmından düzenli olmayan aralıkları da ekleyebiliyoruz
 
 
-
-* offline mod tam anlamıyla duraklatır edit vs yapmamızı sağlar
-* zaman ayarlamak istersek cron manage ye girip edit kısmından start ve stop kısımlarından zaman ayarı yapabiliriz
 
 
 
